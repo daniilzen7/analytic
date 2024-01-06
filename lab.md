@@ -6,7 +6,7 @@
 2. Документация провайдера
 ### Слепок данных биллинга:
 
-![Рисунок](https://github.com/geherious/CloudTech/blob/master/analytical_lab%201/images/img-2.jpg)
+![Рисунок](https://github.com/daniilzen7/analytic/photo1.png)
 
 # Исследование Azure сервисов и поиск их доступных аналогов
 ---
